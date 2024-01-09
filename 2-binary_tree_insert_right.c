@@ -4,7 +4,7 @@
  * binary_tree_insert_right - does as described
  * @parent: Parent node
  * @value: Node to be inserted
- * 
+ *
  * Return: node inserted to right side
 */
 
