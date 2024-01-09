@@ -5,13 +5,13 @@
  * @parent: Pointer to parent node
  * @value: Value to be inserted
  * 
- * Return: node inserted to left
+ * Return: node inserted to left or NULL on fail
 */
 
 binary_tree_t *binary_tree_insert_left(binary_tree_t *parent, int value)
 {
 binary_tree_t *left_node;
-if (parent ==NULL)
+if (parent == NULL)
 {
 return (NULL);
 }
