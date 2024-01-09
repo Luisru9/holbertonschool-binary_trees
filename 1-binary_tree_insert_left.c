@@ -4,7 +4,7 @@
  * binary_tree_insert_left - does as described on
  * @parent: Pointer to parent node
  * @value: Value to be inserted
- * 
+ *
  * Return: node inserted to left or NULL on fail
 */
 
